@@ -10,7 +10,7 @@
     $str =<<<STR
     This is first\n
     This is second\n
-    This is third
+    This is third!
     STR;
 
     fwrite($file, $str);
